@@ -22,6 +22,7 @@ empleado1 = EmpleadoTiempoCompleto(
 # 2. Empleado por horas
 empleado2 = EmpleadoPorHoras(
     "Maria Lopez", "1002", 15000, 160
+    #comentario nuevo revision
 )
 
 
